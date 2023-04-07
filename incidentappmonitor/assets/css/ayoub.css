@@ -1,0 +1,4 @@
+
+.btntest {
+    @apply bg-blue-500 hover:bg-blue-400 cursor-pointer text-white py-1 px-4 mx-20 my-10 rounded
+}
